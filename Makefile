@@ -1,14 +1,14 @@
-# $NetBSD: Makefile,v 1.8 2019/07/16 21:39:11 schmonz Exp $
+# $NetBSD: Makefile,v 1.10 2020/01/26 17:30:59 rillig Exp $
 #
 
 DISTNAME=	libowfat-0.32
-PKGREVISION=	1
+PKGREVISION=	2
 CATEGORIES=	devel
 MASTER_SITES=	${HOMEPAGE}
 EXTRACT_SUFX=	.tar.xz
 
 MAINTAINER=	pkgsrc-users@NetBSD.org
-HOMEPAGE=	http://www.fefe.de/libowfat/
+HOMEPAGE=	https://www.fefe.de/libowfat/
 COMMENT=	Library of general purpose APIs
 LICENSE=	gnu-gpl-v2
 
